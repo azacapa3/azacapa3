@@ -12,4 +12,4 @@ walk-forward covariance forecasting and minimum-variance portfolio evaluation.
 
 ## Contact
 
-[LinkedIn](www.linkedin.com/in/andreszacapa)
+[LinkedIn](https://www.linkedin.com/in/andreszacapa)
