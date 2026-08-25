@@ -1,16 +1,15 @@
-## Hi there 👋
+# Andres Zacapa
 
-<!--
-**azacapa3/azacapa3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mathematics student at Georgia Tech focused on statistical modeling, probability, and financial markets.
 
-Here are some ideas to get you started:
+## Selected Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Equity Statistical Risk Model
+PCA-based statistical factor model for U.S. industry returns, with
+walk-forward covariance forecasting and minimum-variance portfolio evaluation.
+
+[View project →](https://github.com/azacapa3/equity-statistical-risk-model)
+
+## Contact
+
+[LinkedIn](www.linkedin.com/in/andreszacapa)
